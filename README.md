@@ -65,24 +65,24 @@ Gaming: Competitive multiplayer & Story-driven immersive worlds.<br><br>
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f338/512.gif" width="20"> <b><a href="https://github.com/devvesama/kawaii_manga">Kawaii Manga</a></b><br>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f338/512.gif" width="20"> <b><a href="https://github.com/soka8imokenp/kawaii_manga">Kawaii Manga</a></b><br>
 <img src="https://img.shields.io/badge/-Python_|_Django-0d0c10?style=flat-square&logo=python&logoColor=8a60c2" /><br>
 <i>Manga platform localized for Kawaii Uz.</i>
 </td>
 <td width="50%" valign="top">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6d2/512.gif" width="20"> <b><a href="https://github.com/devvesama/enf">ENF Store</a></b><br>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6d2/512.gif" width="20"> <b><a href="https://github.com/soka8imokenp/enf">ENF Store</a></b><br>
 <img src="https://img.shields.io/badge/-Django_|_Postgres-0d0c10?style=flat-square&logo=django&logoColor=8a60c2" /><br>
 <i>Full e-commerce platform with secure payments.</i>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2696_fe0f/512.gif" width="20"> <b><a href="https://github.com/devvesama/BMI_app">BMI App</a></b><br>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2696_fe0f/512.gif" width="20"> <b><a href="https://github.com/soka8imokenp/BMI_app">BMI App</a></b><br>
 <img src="https://img.shields.io/badge/-React_|_AI_Backend-0d0c10?style=flat-square&logo=react&logoColor=8a60c2" /><br>
 <i>Modern health calculator with AI-processed advice.</i>
 </td>
 <td width="50%" valign="top">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="20"> <b><a href="https://github.com/devvesama/tg-feedback-bot">Feedback Bot</a></b><br>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="20"> <b><a href="https://github.com/soka8imokenp/tg-feedback-bot">Feedback Bot</a></b><br>
 <img src="https://img.shields.io/badge/-Python_|_Aiogram-0d0c10?style=flat-square&logo=telegram&logoColor=8a60c2" /><br>
 <i>Admin and user management system with auth logic.</i>
 </td>
@@ -99,7 +99,7 @@ Gaming: Competitive multiplayer & Story-driven immersive worlds.<br><br>
 </p>
 
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devvesama&bg_color=0d0c10&color=8a60c2&line=00ffff&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=soka8imokenp&bg_color=0d0c10&color=8a60c2&line=00ffff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
