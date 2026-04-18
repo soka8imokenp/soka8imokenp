@@ -31,7 +31,7 @@
     
     <td width="45%" valign="top" align="center">
       <h3>🎧 LIVE_AUDIO_STREAM</h3>
-      <a href="https://open.spotify.com/user/q2qe1q4w14lywb88lk29xxvg1">
+      <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=q2qe1q4w14lywb88lk29xxvg1&cover_image=true&theme=default&show_offline=true&background_color=0d0c10&interchange=false&profanity=false" alt="Spotify Now Playing" width="100%" />
       </a>
       <br>
