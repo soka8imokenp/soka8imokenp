@@ -29,14 +29,7 @@
       </details>
     </td>
     
-    <td width="45%" valign="top" align="center">
-      <h3>🎧 LIVE_AUDIO_STREAM</h3>
-      <a href="https://spotify-github-profile.vercel.app/api/view?uid=[ТВОЙ_UID]&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=[ТВОЙ_UID]&cover_image=true&theme=novatbn&bar_color=8a60c2&bar_color_cover=false" alt="Spotify Now Playing" width="100%" />
-      </a>
-      <br>
-      <i><small>Syncing logic to the beat.</small></i>
-    </td>
+    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=q2qe1q4w14lywb88lk29xxvg1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
   </tr>
 </table>
 
