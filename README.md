@@ -10,12 +10,12 @@
 
 ---
 
-<details open>
-  <summary><b>👨‍💻 [ Click to expand ] SYSTEM_LOGS // core_identity.exe</b></summary>
-  <br>
-  <table width="100%">
-    <tr>
-      <td>
+<table align="center" width="100%" style="border: none;">
+  <tr>
+    <td width="55%" valign="top">
+      <details open>
+        <summary><b>👨‍💻 SYSTEM_LOGS // identity.exe</b></summary>
+        <br>
         <code>🔴 🟡 🟢 terminal - bash</code>
         <hr>
         <b>> soka --status</b><br>
@@ -26,10 +26,19 @@
         Gaming: Competitive multiplayer & Story-driven immersive worlds.<br><br>
         <b>> soka --languages</b><br>
         [ English, Russian, Uzbek ]
-      </td>
-    </tr>
-  </table>
-</details>
+      </details>
+    </td>
+    
+    <td width="45%" valign="top" align="center">
+      <h3>🎧 LIVE_AUDIO_STREAM</h3>
+      <a href="https://spotify-github-profile.vercel.app/api/view?uid=[ТВОЙ_UID]&redirect=true">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=[ТВОЙ_UID]&cover_image=true&theme=novatbn&bar_color=8a60c2&bar_color_cover=false" alt="Spotify Now Playing" width="100%" />
+      </a>
+      <br>
+      <i><small>Syncing logic to the beat.</small></i>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -58,46 +67,37 @@
   <tr>
     <td width="50%">
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f338/512.gif" width="20"> <b><a href="https://github.com/devvesama/kawaii_manga">Kawaii Manga</a></b>
-      <br><i>Python, Django</i><br>
-      <blockquote>Manga platform localized for Kawaii Uz. Modern reading experience.</blockquote>
+      <br><img src="https://img.shields.io/badge/-Python_|_Django-0d0c10?style=flat-square&logo=python&logoColor=8a60c2" />
+      <blockquote>Manga platform localized for Kawaii Uz.</blockquote>
     </td>
     <td width="50%">
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6d2/512.gif" width="20"> <b><a href="https://github.com/devvesama/enf">ENF Store</a></b>
-      <br><i>Django, Postgres</i><br>
-      <blockquote>Full e-commerce platform with integrated secure payments.</blockquote>
+      <br><img src="https://img.shields.io/badge/-Django_|_Postgres-0d0c10?style=flat-square&logo=django&logoColor=8a60c2" />
+      <blockquote>Full e-commerce platform with secure payments.</blockquote>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2696_fe0f/512.gif" width="20"> <b><a href="https://github.com/devvesama/BMI_app">BMI App</a></b>
-      <br><i>React, AI Backend</i><br>
+      <br><img src="https://img.shields.io/badge/-React_|_AI_Backend-0d0c10?style=flat-square&logo=react&logoColor=8a60c2" />
       <blockquote>Modern health calculator with AI-processed advice.</blockquote>
     </td>
     <td width="50%">
       <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="20"> <b><a href="https://github.com/devvesama/tg-feedback-bot">Feedback Bot</a></b>
-      <br><i>Python, Aiogram</i><br>
-      <blockquote>Telegram admin and user management system with auth logic.</blockquote>
+      <br><img src="https://img.shields.io/badge/-Python_|_Aiogram-0d0c10?style=flat-square&logo=telegram&logoColor=8a60c2" />
+      <blockquote>Admin and user management system with auth logic.</blockquote>
     </td>
   </tr>
 </table>
 
 ---
 
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <h3>🎧 CURRENT_VIBE</h3>
-      <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/core/src/images/equalizer.gif" width="100%" height="40px"><br>
-      <p><i>Syncing logic to Rock & Vocaloid beats.</i></p>
-      <br>
-      <h3>👀 PROFILE_VIEWS</h3>
-      <img src="https://komarev.com/ghpvc/?username=devvesama&color=8a60c2&style=flat-square&label=VISITORS" />
-    </td>
-    <td width="60%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=devvesama&show_icons=true&theme=tokyonight&bg_color=0d0c10&title_color=00ffff&text_color=ffffff&icon_color=8a60c2&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">📊 SYSTEM_TELEMETRY</h3>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devvesama&show_icons=true&theme=tokyonight&bg_color=0d0c10&title_color=00ffff&text_color=ffffff&icon_color=8a60c2&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvesama&layout=compact&theme=tokyonight&bg_color=0d0c10&title_color=00ffff&text_color=ffffff&hide_border=true" />
+</p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devvesama&bg_color=0d0c10&color=8a60c2&line=00ffff&point=ffffff&area=true&hide_border=true" />
