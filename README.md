@@ -94,8 +94,8 @@ Gaming: Competitive multiplayer & Story-driven immersive worlds.<br><br>
 <h3 align="center">📊 SYSTEM_TELEMETRY</h3>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=devvesama&show_icons=true&theme=tokyonight&bg_color=0d0c10&title_color=00ffff&text_color=ffffff&icon_color=8a60c2&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvesama&layout=compact&theme=tokyonight&bg_color=0d0c10&title_color=00ffff&text_color=ffffff&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=soka8imokenp&show_icons=true&theme=tokyonight&bg_color=0d0c10&title_color=00ffff&text_color=ffffff&icon_color=8a60c2&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soka8imokenp&layout=compact&theme=tokyonight&bg_color=0d0c10&title_color=00ffff&text_color=ffffff&hide_border=true" />
 </p>
 
 <p align="center">
