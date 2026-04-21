@@ -66,7 +66,7 @@ Gaming: Competitive multiplayer & Story-driven immersive worlds.<br><br>
 <tr>
 <td width="50%" valign="top">
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f338/512.gif" width="20"> <b><a href="https://github.com/soka8imokenp/kawaii_manga">Kawaii Manga</a></b><br>
-<img src="https://img.shields.io/badge/-Python_|_Django-0d0c10?style=flat-square&logo=python&logoColor=8a60c2" /><br>
+<img src="https://img.shields.io/badge/-React_|_Tailwind-0d0c10?style=flat-square&logo=python&logoColor=8a60c2" /><br>
 <i>Manga platform localized for Kawaii Uz.</i>
 </td>
 <td width="50%" valign="top">
@@ -78,7 +78,7 @@ Gaming: Competitive multiplayer & Story-driven immersive worlds.<br><br>
 <tr>
 <td width="50%" valign="top">
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2696_fe0f/512.gif" width="20"> <b><a href="https://github.com/soka8imokenp/BMI_app">BMI App</a></b><br>
-<img src="https://img.shields.io/badge/-React_|_AI_Backend-0d0c10?style=flat-square&logo=react&logoColor=8a60c2" /><br>
+<img src="https://img.shields.io/badge/-Tailwind_|_AI_Backend-0d0c10?style=flat-square&logo=react&logoColor=8a60c2" /><br>
 <i>Modern health calculator with AI-processed advice.</i>
 </td>
 <td width="50%" valign="top">
