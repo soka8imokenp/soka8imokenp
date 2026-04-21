@@ -45,7 +45,7 @@ Gaming: Competitive multiplayer & Story-driven immersive worlds.<br><br>
 <tr>
 <td width="33%" align="center">
 <h3>⚙️ BACKEND</h3>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,django,postgres,redis,git&theme=dark&perline=3" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,django,postgres,redis,bash,c,fastapi,git&theme=dark&perline=3" /></a>
 </td>
 <td width="33%" align="center">
 <h3>🌐 FRONTEND</h3>
