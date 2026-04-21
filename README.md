@@ -49,7 +49,7 @@ Gaming: Competitive multiplayer & Story-driven immersive worlds.<br><br>
 </td>
 <td width="33%" align="center">
 <h3>🌐 FRONTEND</h3>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark&perline=3" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,htmx,tailwind,html,css&theme=dark&perline=3" /></a>
 </td>
 <td width="33%" align="center">
 <h3>🎨 CREATIVE</h3>
