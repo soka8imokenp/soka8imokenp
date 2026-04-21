@@ -53,7 +53,7 @@ Gaming: Competitive multiplayer & Story-driven immersive worlds.<br><br>
 </td>
 <td width="33%" align="center">
 <h3>🎨 CREATIVE</h3>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,godot,blander&theme=dark&perline=3" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,godot,blender&theme=dark&perline=3" /></a>
 </td>
 </tr>
 </table>
