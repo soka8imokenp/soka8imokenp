@@ -65,9 +65,9 @@ Gaming: Competitive multiplayer & Story-driven immersive worlds.<br><br>
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f338/512.gif" width="20"> <b><a href="https://github.com/soka8imokenp/kawaii_manga">Kawaii Manga</a></b><br>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f338/512.gif" width="20"> <b><a href="https://kawaii.uz/">Kawaii</a></b><br>
 <img src="https://img.shields.io/badge/-React_|_Tailwind-0d0c10?style=flat-square&logo=python&logoColor=8a60c2" /><br>
-<i>Manga platform localized for Kawaii Uz.</i>
+<i>Main site for Kawaii platform</i>
 </td>
 <td width="50%" valign="top">
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6d2/512.gif" width="20"> <b><a href="https://github.com/soka8imokenp/enf">ENF Store</a></b><br>
